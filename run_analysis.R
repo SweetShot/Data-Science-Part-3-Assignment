@@ -51,4 +51,4 @@ for(i in 1:subject_len) {
   }
 }
 # write table and end
-write.table(result, "data_with_means.txt")
+write.table(result, "tidy_data.txt")
